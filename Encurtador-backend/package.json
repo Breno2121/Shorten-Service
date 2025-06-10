@@ -1,0 +1,24 @@
+{
+  "name": "encurtador-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tsx watch src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fastify/cors": "^11.0.1",
+    "@prisma/client": "^6.9.0",
+    "dotenv": "^16.5.0",
+    "fastify": "^5.3.3",
+    "nanoid": "^5.1.5",
+    "npx": "^10.2.2",
+    "prisma": "^6.9.0",
+    "tpx": "^0.0.1-beta.1",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
