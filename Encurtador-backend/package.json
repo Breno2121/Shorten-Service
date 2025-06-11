@@ -17,8 +17,12 @@
     "nanoid": "^5.1.5",
     "npx": "^10.2.2",
     "prisma": "^6.9.0",
+    "qrcode": "^1.5.4",
     "tpx": "^0.0.1-beta.1",
     "tsx": "^4.19.4",
     "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "@types/qrcode": "^1.5.5"
   }
 }
